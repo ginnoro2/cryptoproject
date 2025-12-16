@@ -7,4 +7,6 @@ import
 def encrypt():
 
 
+def decrypt():
+
 
